@@ -5,9 +5,10 @@
   ],
   "version": "0.0.5",
   "changelog": {
+    "repo": "LittleBreak/lernaTest",
     "labels": {
-      "enhancement": ":rocket: Enhancement",
-      "tag: bug": ":bug: Bug Fix"
+      "tag: bugfix": "Bug fix",
+      "tag: enhancement": "Enhancement"
     },
     "cacheDir": ".changelog"
   }
