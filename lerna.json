@@ -1,0 +1,14 @@
+{
+  "lerna": "2.4.0",
+  "packages": [
+    "packages/*"
+  ],
+  "version": "0.0.4",
+  "changelog": {
+    "labels": {
+      "enhancement": ":rocket: Enhancement",
+      "tag: bug": ":bug: Bug Fix"
+    },
+    "cacheDir": ".changelog"
+  }
+}
