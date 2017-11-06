@@ -5,3 +5,4 @@ console.log('fix bug')
 console.log('fix bug')
 
 console.log('fix bug on branch')
+console.log('bugfix-core')
